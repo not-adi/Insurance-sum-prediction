@@ -4,7 +4,6 @@ A Machine Learning project that predicts individual medical insurance costs base
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-orange)
 
 ## 📌 Overview
 
@@ -16,7 +15,6 @@ The goal of this project is to assist in determining insurance premiums by analy
 * **Data Preprocessing:** Handled missing values, encoded categorical variables (Label Encoding), and scaled numerical features (Standard Scaling).
 * **Model Comparison:** Trained and evaluated multiple models to find the best performer:
     * Linear Regression
-    * Polynomial Regression
     * Random Forest Regressor (Best Performer)
     * Support Vector Regressor (SVR)
     * XGBoost Regressor
